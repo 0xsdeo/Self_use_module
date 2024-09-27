@@ -27,5 +27,3 @@ def generate_data(file_name):
 
     return data
 
-
-print(generate_data("dict.txt"))
